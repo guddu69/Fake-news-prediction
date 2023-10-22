@@ -16,6 +16,8 @@ Whether you're interested in understanding the intricacies of fake news detectio
 
 
 **About the Data Set:**
+
+DataSet link: https://www.kaggle.com/c/fake-news/data?select=train.csv
 1. **id:** unique id for a news article
 2. **title:** the title of a news article
 3. **author:** author of the news article
