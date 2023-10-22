@@ -1,5 +1,5 @@
 # Fake-news-prediction
-Welcome to the "Fake News Prediction" project! 
+
 This project is aimed at developing and evaluating machine learning models for the detection of fake news articles. 
 We utilized a diverse dataset to train three popular classification algorithms: Logistic Regression, Support Vector Machine (SVM), and k-Nearest Neighbors (KNN). 
 These models are designed to distinguish between legitimate news articles and deceptive or misleading content. 
