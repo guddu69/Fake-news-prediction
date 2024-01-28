@@ -15,7 +15,7 @@ Our analysis also includes a **comparative performance assessment** of these alg
 Whether you're interested in understanding the intricacies of fake news detection or seeking a benchmark for your own text classification tasks, this project provides valuable insights into the world of misinformation identification.
 
 
-**About the Data Set:**
+## About the Data Set:
 
 DataSet link: https://www.kaggle.com/c/fake-news/data?select=train.csv
 1. **id:** unique id for a news article
